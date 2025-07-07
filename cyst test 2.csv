@@ -1,0 +1,7 @@
+﻿Patient ID,Age,Menopause Status,Cyst Size cm,Cyst Growth Rate cm/month,CA 125 Level,Ultrasound Features,Reported Symptoms,Recommended Management,Date of Exam,Region
+OC-1000,52,Post-menopausal,3.2,-0.34,19,Septated cyst,"Pelvic pain, Nausea, Bloating",Observation,5/23/2025,Eldoret
+OC-1001,62,Post-menopausal,7.9,0.84,111,Septated cyst,Bloating,Medication,4/27/2025,Loitoktok
+OC-1002,59,Post-menopausal,2.2,0.5,123,Hemorrhagic cyst,"Pelvic pain, Irregular periods, Bloating",Referral,1/5/2025,Eldoret
+OC-1071,51,Post-menopausal,2.7,1.37,54,Hemorrhagic cyst,"Irregular periods, Pelvic pain, Bloating",Referral,2024-07-15,Kisumu
+OC-1083,30,Pre-menopausal,2,-0.43,36,Hemorrhagic cyst,"Nausea, Bloating",Surgery,2025-03-03,Kisumu
+OC-1093,32,Post-menopausal,8.8,0.95,125,Complex cyst,"Pelvic pain, Bloating",Referral,2024-08-03,Nairobi
